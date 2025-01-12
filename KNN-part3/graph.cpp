@@ -22,7 +22,7 @@ double EuclideanDistance(const vector<float>& node1, const vector<float>& node2)
         __m256 node1_v8 = _mm256_loadu_ps(&node1[i]);
         __m256 node2_v8 = _mm256_loadu_ps(&node2[i]);
 
-        // Compute (node1[i] - node2[i])^2 using FMA
+        // Compute (node1[i] - node2[i])^2 + sum_v8 using FMA
         __m256 diff_v8 = _mm256_sub_ps(node1_v8, node2_v8);
         sum_v8 = _mm256_fmadd_ps(diff_v8, diff_v8, sum_v8);
     }
