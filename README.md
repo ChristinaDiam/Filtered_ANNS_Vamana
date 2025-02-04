@@ -1,4 +1,4 @@
-## K23α - Ανάπτυξη Λογισμικού Για Πληροφοριακά Συστήματα
+## K-Nearest Neighbour Search project
 
 ### Part 1 - Nearest Neighbour Search
 
@@ -76,6 +76,6 @@ This command runs Filtered Vamana phase and changes only the value of **a** and 
 
 
 **CONTRIBUTORS**  
-[Χριστίνα Διαμαντή](https://github.com/ChristinaDiam) - 1115201800046  
-[Μαριάννα Σταμάτη](https://github.com/mariannastamati) - 1115202000183  
-[Αντρέας Γιέβτοβιτς](https://github.com/zodicx) - 1115202000033
+[Χριστίνα Διαμαντή](https://github.com/ChristinaDiam)   
+[Μαριάννα Σταμάτη](https://github.com/mariannastamati)  
+[Αντρέας Γιέβτοβιτς](https://github.com/zodicx)
