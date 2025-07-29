@@ -76,6 +76,6 @@ This command runs Filtered Vamana phase and changes only the value of **a** and 
 
 
 **CONTRIBUTORS**  
-[Χριστίνα Διαμαντή](https://github.com/ChristinaDiam)   
-[Μαριάννα Σταμάτη](https://github.com/mariannastamati)  
-[Αντρέας Γιέβτοβιτς](https://github.com/zodicx)
+[Christina Diamanti](https://github.com/ChristinaDiam)   
+[Marianna Stamati](https://github.com/mariannastamati)  
+[Andreas Jevtovic](https://github.com/zodicx)
